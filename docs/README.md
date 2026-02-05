@@ -5,6 +5,7 @@
 ![Example output](docs/IMG_6046.jpeg)
 
 
+
 A lightweight Python tool that pulls real headlines from RSS sources and generates a daily “briefing style” report with:
 - Top headlines
 - Sources represented (publisher-aware)
