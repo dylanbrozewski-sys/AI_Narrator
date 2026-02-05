@@ -1,4 +1,5 @@
 # Global AI Narrator (No-AI Baseline)
+
 ## Example Output
 
 ![Example output](docs/IMG_6046.jpeg)
