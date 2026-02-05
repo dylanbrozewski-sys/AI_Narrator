@@ -3,6 +3,7 @@
 ## Example Output
 
 ![Example output](https://github.com/dylanbrozewski-sys/AI_Narrator/blob/main/docs/IMG_6046.jpeg)
+*Sample daily brief generated using live RSS feeds (no AI synthesis).*
 
 
 
