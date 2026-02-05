@@ -2,7 +2,7 @@
 
 ## Example Output
 
-![Example output](docs/IMG_6046.jpeg)
+![Example output](https://github.com/dylanbrozewski-sys/AI_Narrator/blob/main/docs/IMG_6046.jpeg)
 
 
 
