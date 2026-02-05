@@ -1,3 +1,5 @@
+← Back to [Main Project README](../README.md)
+
 # Global AI Narrator (No-AI Baseline)
 
 ## Example Output
