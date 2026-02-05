@@ -1,4 +1,5 @@
 # Global AI Narrator (No-AI Baseline)
+This document demonstrates the output format and behavior of the Global AI Narrator system using a transparent, non-AI baseline.
 
 ## Example Output
 
